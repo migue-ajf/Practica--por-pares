@@ -1,0 +1,36 @@
+@font-face{
+    font-family:Srirancha-Regular;
+    src: url(Fuentes/Sriracha-Regular.ttf);
+
+  }
+ header{
+    background-color: sandybrown;
+}
+
+h1{
+    text-align: center;
+    font-family:Srirancha-Regular;
+    color: white
+}
+section.enlaces{
+    background-color: lightskyblue;
+    text-indent: 25px;
+}
+
+h2{
+    background-color: sandybrown;
+}
+div{
+    background: sandybrown;
+     border:sandybrown 10px solid;
+     
+ 
+   }
+   ul {
+    list-style-type: katakana;
+    background-color: wheat;
+  }
+  footer.fin{
+    background-color: tomato;
+    text-align: center;
+}

@@ -1,0 +1,82 @@
+@font-face{
+    font-family:Srirancha-Regular;
+    src: url(Fuentes/Sriracha-Regular.ttf);
+
+  }
+  
+ header{
+    background-color: sandybrown;
+}
+
+h1{
+    text-align: center;
+    font-family:Srirancha-Regular;
+    color: white
+}
+section.enlaces{
+    background-color: lightskyblue;
+    text-indent: 25px;
+}
+hr.azul {
+    height: 20px;
+    background-color: blue;
+    width: 100%;
+  }
+ img.Steve{
+     width: 200px ;
+     height: 170px;
+     float: left;
+ }
+ p.bio{
+     color: blue;
+ }
+
+ section.orde{
+background-color: lightskyblue;
+color: red;
+
+ }
+ a:hover{
+    background-color: yellow;
+    color: red;
+}
+
+ img.comp{
+     float: right;
+     width: 170px;
+     height: 165px;
+ }
+ hr.rojo{
+    height: 20px;
+    background-color:red;
+    width: 100%;
+  }
+
+  p.comp{
+      color: red;
+  }
+  hr.salm{
+    height: 20px;
+    background-color: tomato;
+    width: 100%;
+  }
+
+  footer.fin{
+      background-color: tomato;
+  }
+
+  p.inf{
+      text-align: center;
+  }
+
+  body{
+   background: sandybrown;
+   
+    }
+  section.he{
+      background-color: white;
+  }
+
+  div{
+    border:sandybrown 10px solid;
+  }
